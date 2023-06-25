@@ -1,0 +1,79 @@
+p
+{
+    background-color: red;
+    font-family:Jokerman;
+    background:radial-gradient(green,blue);
+    
+}
+
+h1
+{
+    background: linear-gradient(red,blue);
+}
+
+.H1
+{
+    background:linear-gradient(orange,yellow);
+}
+
+body
+{
+    background-color: hotpink;
+}
+
+ul
+{
+    display:flex;
+    background-color: white;
+    list-style:none;
+    padding:20px;
+    margin: 30px;
+}
+
+a
+{
+    padding:30px;
+}
+
+iframe
+{
+    align-items:center;
+    padding-left: 250px;
+    margin-left:300px;
+    margin-top: 100px;
+
+}
+
+legend
+{
+    background:linear-gradient(red,blue);
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:yellow;
+}
+
+form
+{
+    color:red;
+    text-align:center;
+    padding:200px;
+    margin:150px;
+    font-size: xx-large;
+}
+
+input
+{
+    font-size: xx-large;
+    color: black;
+}
+
+select
+{
+    font-size: xx-large;
+    color:black;
+}
+
+li
+{
+    font-size: x-large;
+}
